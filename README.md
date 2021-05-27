@@ -1,0 +1,2 @@
+# GeryGoldPlotAssistant
+面向Chia的全自动智能P盘软件
